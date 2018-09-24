@@ -18,4 +18,4 @@ render() {
   }
 }
 
-export default Header
+export {Header}

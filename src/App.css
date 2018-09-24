@@ -63,3 +63,15 @@ h1.header-title {
   line-break: 10px;
   line-height: 35px;
 }
+
+.duck-card {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.card-section {
+  margin: 20px auto;
+
+}
