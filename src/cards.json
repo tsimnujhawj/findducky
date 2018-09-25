@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./img/spawn.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./img/magneto.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./img/aquaman.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./img/doom.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./img/fury.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./img/ghost.png",
+    "clicked": false    
+  },
+  {
+    "id": 7,
+    "image": "./img/ninja.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./img/riddler.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./img/thanos.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./img/thing.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./img/venom.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./img/deadpool.png",
+    "clicked": false
+  }
+]
