@@ -2,7 +2,7 @@
   "name": "super-hero-memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tsimnujhawj/findducky",
+  "homepage": "https://tsimnujhawj.github.io/findducky/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
